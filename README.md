@@ -5,6 +5,7 @@ Internship Domain: Python Development
 Selected Levels: Level 2 & Level 3
 
 📌 **Level 2** – Password Strength Checker
+
 **🔹 Task Description**
 
 This program checks the strength of a password entered by the user.
